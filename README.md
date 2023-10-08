@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @somtimessss
+- 👋 Hi, I’m Sebastian for web people known as @somtimessss
 - 👀 I’m interested in everythink connected with IT stuff
 - 🌱 I’m currently learning python, java and HTML as my main goal rn
 - 💞️ I’m looking to collaborate with people whom are into self development
