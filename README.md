@@ -1,4 +1,5 @@
 - ⌚ Sup, my name is Sebastian. For people in the internet i am known as @sometimessss
+- ⌚ Right now I am studying computer science at the Rzeszów University of Technology
 - ⌚ I’m interested in everythink connected with IT stuff
 - ⌚ I’m currently learning python, java and HTML as my main goal rn
 - ⌚ I’m looking to collaborate with people whom are into self development
